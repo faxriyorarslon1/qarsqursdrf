@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+yangisidan/
 build/
 develop-eggs/
 dist/
