@@ -9,6 +9,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 yangisidan/
+./yangisidan/
+
 build/
 develop-eggs/
 dist/
@@ -125,6 +127,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+yangisidan/
 ENV/
 env.bak/
 venv.bak/
