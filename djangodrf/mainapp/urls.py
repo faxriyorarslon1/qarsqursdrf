@@ -1,6 +1,6 @@
 from django.urls import path
 
-from .views import ListCreateAboutUs, AboutRetrieveAPIView, AboutUsDelete
+from .views import AboutUsDelete, ListCreateAboutUs, AboutRetrieveAPIView
 
 urlpatterns = [ 
     path('', ListCreateAboutUs.as_view()),
